@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            #bg1 {height: 1080px;
+                background-image: url(a1.jpg); 
+                background-size:cover;   
+                background-position: center; 
+                background-attachment: scroll;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="bg1"></div>
+
+    </body>
+     b a c k g r o u n d- image 圖片:url(名稱.jpg)
+    b a c k g r o u n d - size 尺寸
+    b a c k g r o u n d - position 置中
+    b a c k g r o u n d - attachment: "scroll"(圖片會跟著移動)/"fixed"(網頁捲動時，圖片會固定不動)
+</html>
