@@ -1,0 +1,15 @@
+<<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            @import url("import1.css");     *css=疊層樣式
+            h1 {background-color:#0094ff}
+        </style> 
+    </head>
+    <body style="background-color: #ff6a00">
+        <h1>CHUANG HUI CHIEN</h1>
+        <p>CHUANG HUI CHIEN</p>      
+    </body>
+</html>
