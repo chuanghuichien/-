@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+           .bg1 {background-color: rgb(255,0,0)}
+                  </style>
+    </head>
+    <body>
+            <span class="bg1">隨機砍人？</span> <span class="bg1">預謀犯案？</span>新北市淡水區一間中學一名10歲魏姓國小女童，
+        上學途中慘遭同校16歲劉姓男高中生持<span class="bg1">料理刀狂刺3刀</span>，
+        導致背部穿刺傷，犯案當時，正值上課時間，不少學生目擊，校內老師見狀後立刻上前將高中生制伏。隨即將受傷女童送往醫院急救。
+        根據了解，女童背上有傷口，高中生兇嫌下手時，疑似還轉動刀子，才會造成3ｘ5公分的傷口，而女童目前被送進加護病房觀察中，尚未脫離險境。
+
+
+    </body>
+            *<span> 標籤內可以放很多設定用的東西
+            *每種顏色最小值設定0；最大255
+</html>
