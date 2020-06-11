@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+ 
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            h1{text-align:left}
+            h2{text-align:right}
+            h3{text-align:center}
+            h4{text-align:justify}
+        </style>
+    </head>
+    <body>
+        <h1>靠左對齊</h1>
+        <h2>靠右對齊</h2>
+        <h3>置中對齊</h3>
+        <h4>至其餘連續假期的補假，均依「紀念日及節日實施辦法」辦理。其中依內政部函釋，兒童節及民族掃墓節為同一日，並適逢星期日，於4月2日（星期五）及4月5日（星期一）補假，因此，兒童節及民族掃墓節有4日連續假期。</h4>
+    </body>
+</html>
