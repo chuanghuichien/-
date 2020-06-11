@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            body {
+                background-image: url(bg1.jpg);
+                 background-attachment: fixed; 
+                 background-repeat:no-repeat;    
+                 background-position: center;
+                background-size: 1080px 720px; 
+            }            
+    repeat	預設重覆方式 - no-repeat	 背景圖片不重覆出現，也就是只出現一次。
+    </body>
+</html>
+    
