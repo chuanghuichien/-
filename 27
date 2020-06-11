@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            h1 {border-color: #0094ff;
+                border-width: 8px;
+                border-style: solid; 
+                padding: 60px;
+                margin: 120px;              
+            }
+        </style>
+    </head>
+    <body>
+        <h1>獅子/老虎/豹</h1>
+    </body>
+</html>
+ border-color邊框顏色
+ border-style邊框樣式
+ border-width邊框寬度
+ margin可一次設定四個邊的外距，也可以分別設定每個邊不同的外距也能設負值
+ padding 內距的設定，但不可設負值
