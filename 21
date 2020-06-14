@@ -11,7 +11,8 @@
                  background-repeat:no-repeat;    
                  background-position: center;
                 background-size: 1080px 720px; 
-            }            
+            } 
+            url圖片名稱 圖片需跟代號相同否則無法顯示
     repeat	預設重覆方式 - no-repeat	 背景圖片不重覆出現，也就是只出現一次。
     </body>
 </html>
