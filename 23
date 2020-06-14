@@ -15,6 +15,11 @@
         <h1>這是標題</h1>
         <h2>這是標題</h2>
         <h3>這是標題</h3>
-        <a href="."這是連結</a>
+        <a href="."這是連結</a> /   a{text-decoration: :none} (把連結取消底線)
     </body>
+    text-decoration可用來裝飾文字
+    overline-在文字上方增加線條
+    underline-文字增加底線
+    line-through在文字中增加刪除線
+    none-預設值，沒加任何的特效
 </html>
