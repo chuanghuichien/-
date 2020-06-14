@@ -14,5 +14,7 @@
         <p style="font-family:cursive">這是範例文字</p> this is example font.Show cursive  font.<\p>
          <p style="font-family:fantasy">這是範例文字</p> this is example font.Show fantasy  font.<\p>
     </body>
-    </body>
+    font-family 可設定一種字體或多種不同的字體
+    需再font-family:"自己想要的樣式">
+    
 </html>
